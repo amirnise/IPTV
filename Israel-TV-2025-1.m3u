@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTGRP:"Live Channels"
 #EXTINF:60, group-title="ISRAEL ישראל" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png", עכשיו 14 
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
