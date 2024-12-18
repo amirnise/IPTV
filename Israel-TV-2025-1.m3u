@@ -83,7 +83,7 @@ https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
 
 #EXTGRP:"Live channels abroad"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
+#EXTINF:-1 group-title="Liverpool, England" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS (Liverpool)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
