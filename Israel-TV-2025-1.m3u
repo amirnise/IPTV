@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTGRP:"Live Channels"
+#EXTGRP:"Israel Live Channels"
 #EXTINF:60, group-title="ISRAEL ישראל" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png", עכשיו 14 
 https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
 
@@ -73,13 +73,37 @@ https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1,group-title="ISRAEL ישראל" tvg-logo="https://i.ibb.co/tMm7vdM/shelanug.jpg", iGOD-IL שלנו
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 
-#EXTGRP:"Sports"
 #EXTINF:-1,group-title="ISRAEL ישראל" tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png", SPORT5 RADIO LIVE
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
 #EXTINF:-1,group-title="ISRAEL ישראל" tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png", SPORT5 LIVE
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 
-#EXTGRP:"Live"
 #EXTINF:31,group-title="ISRAEL ישראל" tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png", הכנסת 99 
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
+
+#EXTGRP:"United Kingdom Live Channels"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
+https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
+https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66flivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
+https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
