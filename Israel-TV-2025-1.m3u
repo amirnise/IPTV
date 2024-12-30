@@ -153,3 +153,6 @@ https://bloomberg-quicktake-4-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
 https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.discovery.com/etc/clientlibs/assets/images/discovery/disco-plus.png",Discovery
+http://202.75.23.34:8800/live/ch29/01.m3u8
