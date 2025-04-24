@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTGRP:"Israel Live Channels"
-#EXTINF:-1, group-title="ISRAEL ישראל" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png", C14, https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
+#EXTINF:-1, group-title="ISRAEL ישראל" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png", C14 
+https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
 
 #EXTINF:-1, group-title="ISRAEL ישראל" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg", רשת 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
